@@ -56,6 +56,6 @@ I maintain a personal **Developer SOP** ensuring:
 ---
 
 ## 📬 Let’s Connect
-- LinkedIn: [linkedin.com/in/davidjesseodhiambo](https://linkedin.com/in/davidjesseodhiambo)  
-- Email: davidjesseodhiambo@example.com  
+- LinkedIn: [linkedin.com/in/davidjesseodhiambo](https://www.linkedin.com/in/david-jesse-odhiambo/)  
+- Email: jesseomolo@gmail.com  
 - Portfolio: [GitHub Projects](https://github.com/DavJesse?tab=repositories)
