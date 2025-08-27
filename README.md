@@ -43,6 +43,13 @@ I build solutions that are **scalable, user-focused, and maintainable** — from
 
 ---
 
+## ✍️ What I'm Writing
+I’m currently writing a series on **Full-Stack Interview Prep**, where I explain common interview topics simply, with examples in Go and Node.js.  
+
+- [#1: SQL Injection Explained Simply](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)  
+
+---
+
 ## 📜 My Development Standards
 I maintain a personal **Developer SOP** ensuring:
 - **Complete Documentation** — README, API specs, architecture diagrams, database schemas.  
