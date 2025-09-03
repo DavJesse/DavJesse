@@ -46,7 +46,8 @@ I build solutions that are **scalable, user-focused, and maintainable** — from
 ## ✍️ What I'm Writing
 I’m currently writing a series on **Full-Stack Interview Prep**, where I explain common interview topics simply, with examples in Go and Node.js.  
 
-- [#1: SQL Injection Explained Simply](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)  
+- [#1: SQL Injection Explained Simply](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)
+- [#2: XSS (Cross-Site Scripting) Explained Simply](https://dev.to/davjesse/full-stack-interview-prep-2-xss-cross-site-scripting-explained-simply-with-go-nodejs-8ee) 
 
 ---
 
